@@ -1,0 +1,20 @@
+[
+    {
+        "author": "Zelda Fitzgerald",
+        "image": "zelda-great",
+        "snippet": "Expect great things to happen and they will",
+        "quote": "She quietly expected great things to happen to her, and no doubt that's one of the reasons why they did."
+    },
+    {
+        "author": "Winnie the Pooh",
+        "image": "winnie-braver",
+        "snippet": "You're more than you realize",
+        "quote": "You're braver than you believe, stronger than you seem and smarter than you think."
+    },
+    {
+        "author": "C.S. Lewis",
+        "image": "lewis-love",
+        "snippet": "To love at all is to be vulnerable.",
+        "quote": "To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable."
+    }
+]
